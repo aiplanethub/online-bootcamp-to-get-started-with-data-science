@@ -1,0 +1,3 @@
+<p>Python Fundamentals &amp; NumPy:&nbsp;<a href="https://dphi.tech/notebooks/851/manish_kc_06/introduction-to-numpy" target="_blank">https://dphi.tech/notebooks/851/manish_kc_06/introduction-to-numpy</a></p>
+
+<p>Dive Deep into Pandas:&nbsp;<a href="https://dphi.tech/notebooks/852/manish_kc_06/day-1-notebook-introduction-to-pandas" target="_blank">https://dphi.tech/notebooks/852/manish_kc_06/day-1-notebook-introduction-to-pandas</a></p>
